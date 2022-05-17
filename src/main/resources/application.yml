@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+amazon:
+  dynamodb:
+    endpoint: http://localhost:4566
+    region: us-east-1
+  aws:
+    accesskey: 123
+    secretkey: 123
